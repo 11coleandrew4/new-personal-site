@@ -1,0 +1,17 @@
+#side-nav-container {
+  background-color: rgba(27, 27, 27, 0.5);
+  width: fit-content;
+  margin-top: 2em;
+  padding: 1em;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+}
+
+.option {
+  color: white;
+  font-size: 30px;
+  font-weight: 700;
+  padding-top: 0.25em;
+  padding-bottom: 0.25em;
+}

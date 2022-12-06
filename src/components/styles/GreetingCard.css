@@ -1,0 +1,17 @@
+#greeting-text {
+  background-color: rgba(199, 40, 196, 0.5);
+  width: fit-content;
+  padding: 1em;
+  border-radius: 15px;
+}
+
+#greeting-text h1 {
+  color: rgb(255, 255, 255);
+  margin-top: 0em;
+  margin-bottom: 0.5em;
+}
+
+#greeting-text p {
+  color: white;
+  margin: 0em;
+}
